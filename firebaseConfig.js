@@ -2,7 +2,6 @@ import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB6NydBaeO0EmKEg9OCzhjQpVV47SDF6ZM",
   authDomain: "yummy-dz-app.firebaseapp.com",
   projectId: "yummy-dz-app",
   storageBucket: "yummy-dz-app.firebasestorage.app",
